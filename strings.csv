@@ -1,0 +1,252 @@
+"app_name";"Private Guide";BOTH
+"app_name_subtitle";"Amazing worldwide";BOTH
+"activity_filters_title";"Filter";BOTH
+"nav_search";"Search";BOTH
+"nav_profile";"Profile";ANDROID
+"nav_chats";"Chats";BOTH
+"nav_dashboard";"Dashboard";BOTH
+"nav_favorites";"Favorites";BOTH
+"nav_settings";"Settings";BOTH
+"nav_report";"Report an error";BOTH
+"nav_about";"About";BOTH
+"nav_privacy_policy";"Private policy";ANDROID
+"find_guide_label";"Find you own\nprivate guide";BOTH
+"search_hint_where_to_go";"Where to go?";BOTH
+"search_hint_your_cities";"What are your cities?";ANDROID
+"search_hint_your_country";"What is your country?";ANDROID
+"find_users_nearby";"Find Guides Nearby";BOTH
+"search_result_title_countries";"Countries";ANDROID
+"search_result_title_cities";"Cities";ANDROID
+"search_result_title_selected";"Selected";ANDROID
+"search_result_title_unselected";"Unselected";ANDROID
+"generic_loading_error";"Loading failed";ANDROID
+"unknown_error";"Operation failed";ANDROID
+"place.header.capital.title";"Capital:";ANDROID
+"place.header.country.title";"Country:";ANDROID
+"place.header.currency.title";"Currency:";ANDROID
+"place.header.language.title";"Languages:";ANDROID
+"today";"Today";ANDROID
+"yesterday";"Yesterday";ANDROID
+"not_available";"-";ANDROID
+"status_online";"online";ANDROID
+"status_offline";"offline";ANDROID
+"user_feedback_summary";"%1$d excursions • %2$d feedbacks";ANDROID
+"label_language";"Language";ANDROID
+"label_languages";"Languages";ANDROID
+"label.currencies";"Currencies";ANDROID
+"label_duration";"Duration";ANDROID
+"label_duration_hint";"Duration (hours)";ANDROID
+"label_capacity";"Capacity";ANDROID
+"label_capacity_hint";"Capacity (persons)";ANDROID
+"label_price";"Price";ANDROID
+"label_price_hint";"Price (currency)";ANDROID
+"label_online_only";"Online only";ANDROID
+"label_show_excursion";"Show excursion";ANDROID
+"enable_location_settings_title";"Location Services are Off";ANDROID
+"enable_location_settings_message";"Your current location cannot be determined. Please ensure Location Services are enabled by clicking Settings.";ANDROID
+"message_search_no_match";"Sorry, your search\ndid not match.";ANDROID
+"message_search_no_match_near";"Sorry, no guides were found nearby";ANDROID
+"message_no_internet";"Some troubles with the\ninternet. Check the connection.";ANDROID
+"message_please_wait";"Please wait...";ANDROID
+"message_delete_success";"Deleted";ANDROID
+"login_title";"Login to your account";ANDROID
+"register_title";"Register as a tourist";ANDROID
+"registration_title";"Registration";ANDROID
+"forgot_password_title";"Forgot password";ANDROID
+"label_email";"Email";ANDROID
+"label_password";"Password";ANDROID
+"label_your_name";"Your name";ANDROID
+"label_first_name";"First name";ANDROID
+"label_last_name";"Last name";ANDROID
+"label_name";"Name";ANDROID
+"label_phone";"Phone";ANDROID
+"label_skype";"Skype";ANDROID
+"label_location";"Location";ANDROID
+"label_done";"Done";ANDROID
+"label_cancel";"Cancel";ANDROID
+"label_websites";"Web";ANDROID
+"label_country";"Country";ANDROID
+"label_about";"About";ANDROID
+"label_about_kode";"Made with soul by";ANDROID
+"label_category";"Category";ANDROID
+"label_excursion";"Excursion";ANDROID
+"label_add";"Add";ANDROID
+"label_all_cities";"All cities";ANDROID
+"label_captcha";"Captcha";ANDROID
+"label_city";"City";ANDROID
+"label_attach";"Attach";ANDROID
+"label_choose_country";"Choose country";ANDROID
+"label_send";"Send";ANDROID
+"label_excursion_name";"Excursion name";ANDROID
+"action_select_all";"Select all";ANDROID
+"action_clear_all";"Clear all";ANDROID
+"action_gps_settings";"Settings";ANDROID
+"action_ok";"OK";ANDROID
+"action_yes_i_want";"Yes, i want";ANDROID
+"action_cancel";"Cancel";ANDROID
+"action_no";"No";ANDROID
+"action_undo";"Undo";ANDROID
+"action_login";"Log in";ANDROID
+"action_logout";"Logout";ANDROID
+"action_forgot_password";"Forgot?";ANDROID
+"action_login_facebook";"Facebook";ANDROID
+"action_login_twitter";"Twitter";ANDROID
+"action_create_account";"Create account";ANDROID
+"action_sign_up";"Sign up";ANDROID
+"action_create_guide_account";"Register as guide";ANDROID
+"action_open";"Open";ANDROID
+"action_close";"Close";ANDROID
+"action_settings";"Settings";ANDROID
+"action_reset";"Reset";ANDROID
+"action_show_all";"Show all";ANDROID
+"action_edit";"Edit";ANDROID
+"action_submit";"Submit";ANDROID
+"action_reply";"Reply";ANDROID
+"action_confirm";"Confirm";ANDROID
+"action_save";"Save";ANDROID
+"action_add_photo";"Add photo";ANDROID
+"action_update_photo";"Update photo";ANDROID
+"action_add_one_more";"Add one more";ANDROID
+"action_camera";"Camera";ANDROID
+"action_gallery";"Gallery";ANDROID
+"action_delete";"Delete";ANDROID
+"action_pick_image";"Select photo";ANDROID
+"action_send_message";"Message";ANDROID
+"action_send_bulkmessage";"Bulk Message";ANDROID
+"action_more";"More";ANDROID
+"action_share";"Share";ANDROID
+"action_buy";"Buy";ANDROID
+"action_mark_favorite";"Favorite";ANDROID
+"action_choose_slot_country";"Choose your country";ANDROID
+"forgot_password_note";"We will send you an email to change your password. Check your email!";ANDROID
+"tour_short_list_title";"Excursions (%d)";ANDROID
+"tour_list_activity_title";"Excursions";ANDROID
+"feedback_short_list_title";"Feedbacks (%d)";ANDROID
+"feedback_list_activity_title";"Feedbacks";ANDROID
+"user_profile_title";"Profile information";ANDROID
+"user_profile_public_info_title";"Public information";ANDROID
+"user_profile_places_title";"Places";ANDROID
+"activity_places_title";"Places";ANDROID
+"my_profile";"My profile";ANDROID
+"about_activity_title";"@string/label_about";ANDROID
+"privacy_policy_activity_title";"Privacy Policy";ANDROID
+"app_version_label";"Version: %s";ANDROID
+"settings_activity_title";"Settings";ANDROID
+"set_language_activity_title";"Set Language";ANDROID
+"error_title_incomplete";"Incomplete";ANDROID
+"error_title_sign_up";"Signup error";ANDROID
+"error_title_login";"Login failed";ANDROID
+"error_title_failed";"Failed";ANDROID
+"error_login_failed";"Please check your credentials and try again";ANDROID
+"error_empty_field";"Please fill all fields to continue";ANDROID
+"error_email_wrong_format";"An invalid email was provided - please alter and retry";ANDROID
+"error_phone_wrong_format";"Wrong phone number format";ANDROID
+"error_skype_wrong_format";"Wrong skype format";ANDROID
+"error_weburl_wrong_format";"Invalid URL format";ANDROID
+"error_language_wrong_format";"Invalid language format";ANDROID
+"error_email_length";"Wrong email length (FIXME correct msg)";ANDROID
+"error_email_length_min";"Please choose a longer email - the currently selected one is too short";ANDROID
+"error_email_length_max";"Please choose a shorter email - the currently selected one is too long";ANDROID
+"error_password_length";"Wrong password length";ANDROID
+"error_password_length_min";"Please choose a longer password - the currently selected one is too short";ANDROID
+"error_password_length_max";"Please choose a shorter password - the currently selected one is too long";ANDROID
+"error_first_name_length";"First name is too short";ANDROID
+"error_first_name_length_min";"Please enter a longer First name - the currently selected one is too short";ANDROID
+"error_first_name_length_max";"Please enter a shorter First name - the currently selected one is too long";ANDROID
+"error_last_name_length";"Wrong last name length";ANDROID
+"error_last_name_length_min";"Please enter a longer Last name - the currently selected one is too short";ANDROID
+"error_last_name_length_max";"Please enter a shorter Last name - the currently selected one is too long";ANDROID
+"error_invalid_captcha";"You entered wrong captcha";ANDROID
+"error_captcha_length";"Wrong captcha length (FIXME correct msg)";ANDROID
+"error_tour_name_length";"Invalid length of the name";ANDROID
+"error_tour_desc_length";"Invalid length of description";ANDROID
+"error_tour_length";"Invalid length ";ANDROID
+"error_tour_duration";"Invalid duration";ANDROID
+"error_tour_capacity";"Invalid capacity";ANDROID
+"error_tour_price";"Invalid price";ANDROID
+"message_password_recovery_email_sent";"Password recovery email was successfully sent";ANDROID
+"profile_personal_info_edit_activity_title";"Profile Information";ANDROID
+"profile_public_info_edit_activity_title";"Public Information";ANDROID
+"hint_languages_you_speak";"Languages you are speaking";ANDROID
+"hint_info_about";"Few words about you";ANDROID
+"request_add_hint";"Your message";ANDROID
+"actions_title";"Actions";ANDROID
+"user_type_guide";"Guide";ANDROID
+"user_type_tourist";"Tourist";ANDROID
+"user_type_guest";"Guest";ANDROID
+"buy_subscription_title";"Buy a subscription";ANDROID
+"buy_subscription_message";"You can select only one camp for excursions. To select more countries buy a subscription.";ANDROID
+"action_choose_slot_tour";"Add information";ANDROID
+"activity_tours_title";"Excursions";ANDROID
+"label_my_excursion";"My Excursion";ANDROID
+"action_upload_photo";"Upload photo";ANDROID
+"logout_dialog_title";"Logout";ANDROID
+"logout_dialog_message";"Are you sure you want logout?";ANDROID
+"push_notification";"Notifications";ANDROID
+"set_language";"Set language";ANDROID
+"geo_point";"Geo point";ANDROID
+"dashboard";"Dashboard";ANDROID
+"mail.issue.subject";"Report an error";ANDROID
+"mail.issue.body";"id user: %1$s \ntype user: %2$s ";ANDROID
+"mail.support";"support@pg.world";ANDROID
+"mail.support.send";"Send email";ANDROID
+"sharing_guide";"Name guide: %1$s, \nAbout: %2$s ";ANDROID
+"sharing_tour";"Excursion title: %1$s, \nAbout: %2$s";ANDROID
+"gallery.photo.count";"%1$d/%2$d";ANDROID
+"places.manage.subscription";"Manage subscription";ANDROID
+"places.days.left";"Days left";ANDROID
+"excursion.status.moderate";"On moderation";ANDROID
+"excursion.status.confirmed";"Not active";ANDROID
+"toolbar.lastseen";"Last seen on %s";ANDROID
+"alert.message.profile.moderation.need";"Your profile no longer be visible and will have to be re-moderated.";ANDROID
+"alert.message.places.moderation.need";"Your excursion no longer be visible and will have to be re-moderated.";ANDROID
+"error.unknown";"Unknown err";ANDROID
+"error.excursions.empty";"No excursion yet.";ANDROID
+"error.guides.empty";"You have not added\n any guide to favourites yet.";ANDROID
+"error.feedbacks.empty";"No feedbacks yet.";ANDROID
+"error.chats.empty";"No chats yet.";ANDROID
+"error.requests.empty";"No requests yet.";ANDROID
+"error.dashboard.empty";"No dashboard yet.";ANDROID
+"toast.message.success.request.add";"Your message was successfully sent";ANDROID
+"toast.mass.message.success.request.add";"Your mass application was successfully sent";ANDROID
+"toast.message.password.reset.success";"Please follow the instruction we sent to your email";ANDROID
+"toast.message.success.excursion.add";"The excursion was successfully added";ANDROID
+"toast.profile.information.success.save";"Your information saved";ANDROID
+"gcm.notification.title";"@string/app_name";ANDROID
+"fragment.dashboard.title";"@string/dashboard";ANDROID
+"fragment.attach.alert.ok";"@string/label_done";ANDROID
+"fragment.attach.alert.cancel";"@string/label_cancel";ANDROID
+"fragment.attach.alert.title.phone";"Choose number";ANDROID
+"fragment.attach.alert.title.skype";"Choose skype";ANDROID
+"fragment.attach.alert.title.email";"Choose email";ANDROID
+"fragment.attach.alert.item.phone";"@string/label_phone";ANDROID
+"fragment.attach.alert.item.skype";"@string/label_skype";ANDROID
+"fragment.attach.alert.item.email";"@string/label_email";ANDROID
+"fragment.attach.alert.item.location";"@string/label_location";ANDROID
+"feedback_sent_moderation_message";"Your message has been sent on moderation";ANDROID
+"feedback.add.toolbar";"Feedback for %s";ANDROID
+"alert_del_title";"Do you want to delete records?";ANDROID
+"alert_send_message";"Do you want to send message?";ANDROID
+"alert_send_mass_application";"Do you want to send mass application?";ANDROID
+"requests";"Requests";ANDROID
+"request";"Request";ANDROID
+"chats";"Chats";ANDROID
+"guides";"Guides";ANDROID
+"excursions";"Excursions";ANDROID
+"language.en";"English";ANDROID
+"language.ru";"Russian";ANDROID
+"language.fr";"French";ANDROID
+"language.de";"Germany";ANDROID
+"language.it";"Italian";ANDROID
+"language.es";"Spain";ANDROID
+"favorite.success.remove";"";ANDROID
+"nav_profile";"User";IOS
+"nav_privacy_policy";"Лицензионное соглашение";IOS
+"search_hint_your_cities";"Your cities is %@";IOS
+"search.hint_your_country";"Your country is %@";IOS
+"search.result_title_countries";"Countries";IOS
+"search.result_title_cities";"Cities";IOS
+"search.result_title_selected";"Selected";IOS
+"search.result_title_unselected";"Unselected";IOS
+"generic.loading_error";"Loading failed";IOS
+"unknown_error";"Oops, something went wrong";IOS

@@ -1,0 +1,303 @@
+<resources>
+    <string name="app_name">Private Guide</string>
+    <string name="app_name_subtitle">Amazing worldwide</string>
+    <string name="activity_filters_title">Filter</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_chats">Chats</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_report">Report an error</string>
+    <string name="nav_about">About</string>
+    <string name="nav_privacy_policy">Private policy</string>
+    <string name="find_guide_label">Find you own\nprivate guide</string>
+    <string name="search_hint_where_to_go">Where to go?</string>
+    <string name="search_hint_your_cities">What are your cities?</string>
+    <string name="search_hint_your_country">What is your country?</string>
+    <string name="find_users_nearby">Find Guides Nearby</string>
+    <string name="search_result_title_countries">Countries</string>
+    <string name="search_result_title_cities">Cities</string>
+    <string name="search_result_title_selected">Selected</string>
+    <string name="search_result_title_unselected">Unselected</string>
+    <string name="generic_loading_error">Loading failed</string>
+    <string name="unknown_error">Operation failed</string>
+
+    <string name="place.header.capital.title">Capital:</string>
+    <string name="place.header.country.title">Country:</string>
+    <string name="place.header.currency.title">Currency:</string>
+    <string name="place.header.language.title">Languages:</string>
+
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="not_available">-</string>
+    <string name="status_online">online</string>
+    <string name="status_offline">offline</string>
+    <string name="user_feedback_summary">%1$d excursions &#8226; %2$d feedbacks</string>
+    <string name="label_language">Language</string>
+    <string name="label_languages">Languages</string>
+    <string name="label.currencies">Currencies</string>
+    <string name="label_duration">Duration</string>
+    <string name="label_duration_hint">Duration (hours)</string>
+    <string name="label_capacity">Capacity</string>
+    <string name="label_capacity_hint">Capacity (persons)</string>
+    <string name="label_price">Price</string>
+    <string name="label_price_hint">Price (currency)</string>
+    <string name="label_online_only">Online only</string>
+    <string name="label_show_excursion">Show excursion</string>
+    <string name="enable_location_settings_title">Location Services are Off</string>
+    <string name="enable_location_settings_message">Your current location cannot be determined. Please ensure Location Services are enabled by clicking Settings.</string>
+    <string name="message_search_no_match">Sorry, your search\ndid not match.</string>
+    <string name="message_search_no_match_near">Sorry, no guides were found nearby</string>
+    <string name="message_no_internet">Some troubles with the\ninternet. Check the connection.</string>
+    <string name="message_please_wait">Please wait...</string>
+    <string name="message_delete_success">Deleted</string>
+    <string name="login_title">Login to your account</string>
+    <string name="register_title">Register as a tourist</string>
+    <string name="registration_title">Registration</string>
+    <string name="forgot_password_title">Forgot password</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_your_name">Your name</string>
+    <string name="label_first_name">First name</string>
+    <string name="label_last_name">Last name</string>
+    <string name="label_name">Name</string>
+    <string name="label_phone">Phone</string>
+    <string name="label_skype">Skype</string>
+    <string name="label_location">Location</string>
+    <string name="label_done">Done</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_websites">Web</string>
+    <string name="label_country">Country</string>
+    <string name="label_about">About</string>
+    <string name="label_about_kode">Made with soul by</string>
+    <string name="label_category">Category</string>
+    <string name="label_excursion">Excursion</string>
+    <string name="label_add">Add</string>
+    <string name="label_all_cities">All cities</string>
+    <string name="label_captcha">Captcha</string>
+    <string name="label_city">City</string>
+    <string name="label_attach">Attach</string>
+    <string name="label_choose_country">Choose country</string>
+    <string name="label_send">Send</string>
+
+    <string name="label_excursion_name">Excursion name</string>
+
+    <string name="action_select_all">Select all</string>
+    <string name="action_clear_all">Clear all</string>
+    <string name="action_gps_settings">Settings</string>
+    <string name="action_ok">OK</string>
+    <string name="action_yes_i_want">Yes, i want</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_no">No</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_login">Log in</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_forgot_password">Forgot?</string>
+    <string name="action_login_facebook">Facebook</string>
+    <string name="action_login_twitter">Twitter</string>
+    <string name="action_create_account">Create account</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_create_guide_account">Register as guide</string>
+    <string name="action_open">Open</string>
+    <string name="action_close">Close</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_show_all">Show all</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_submit">Submit</string>
+    <string name="action_reply">Reply</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_save">Save</string>
+    <string name="action_add_photo">Add photo</string>
+    <string name="action_update_photo">Update photo</string>
+    <string name="action_add_one_more">Add one more</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_gallery">Gallery</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_pick_image">Select photo</string>
+    <string name="action_send_message">Message</string>
+    <string name="action_send_bulkmessage">Bulk Message</string>
+    <string name="action_more">More</string>
+    <string name="action_share">Share</string>
+    <string name="action_buy">Buy</string>
+    <string name="action_mark_favorite">Favorite</string>
+    <string name="action_choose_slot_country">Choose your country</string>
+    <string name="forgot_password_note">We will send you an email to change your password. Check your email!</string>
+    <string name="tour_short_list_title">Excursions (%d)</string>
+    <string name="tour_list_activity_title">Excursions</string>
+    <string name="feedback_short_list_title">Feedbacks (%d)</string>
+    <string name="feedback_list_activity_title">Feedbacks</string>
+    <string name="user_profile_title">Profile information</string>
+    <string name="user_profile_public_info_title">Public information</string>
+    <string name="user_profile_places_title">Places</string>
+    <string name="activity_places_title">Places</string>
+    <string name="my_profile">My profile</string>
+    <string name="about_activity_title">@string/label_about</string>
+    <string name="privacy_policy_activity_title">Privacy Policy</string>
+    <string name="app_version_label">Version: %s</string>
+    <string name="settings_activity_title">Settings</string>
+    <string name="set_language_activity_title">Set Language</string>
+    <string name="error_title_incomplete">Incomplete</string>
+    <string name="error_title_sign_up">Signup error</string>
+    <string name="error_title_login">Login failed</string>
+    <string name="error_title_failed">Failed</string>
+    <string name="error_login_failed">Please check your credentials and try again</string>
+    <string name="error_empty_field">Please fill all fields to continue</string>
+    <string name="error_email_wrong_format">An invalid email was provided - please alter and retry</string>
+    <string name="error_phone_wrong_format">Wrong phone number format</string>
+    <string name="error_skype_wrong_format">Wrong skype format</string>
+    <string name="error_weburl_wrong_format">Invalid URL format</string>
+    <string name="error_language_wrong_format">Invalid language format</string>
+    <string name="error_email_length">Wrong email length (FIXME correct msg)</string>
+    <string name="error_email_length_min">Please choose a longer email - the currently selected one is too short</string>
+    <string name="error_email_length_max">Please choose a shorter email - the currently selected one is too long</string>
+    <string name="error_password_length">Wrong password length</string>
+    <string name="error_password_length_min">Please choose a longer password - the currently selected one is too short</string>
+    <string name="error_password_length_max">Please choose a shorter password - the currently selected one is too long</string>
+    <string name="error_first_name_length">First name is too short</string>
+    <string name="error_first_name_length_min">Please enter a longer First name - the currently selected one is too short</string>
+    <string name="error_first_name_length_max">Please enter a shorter First name - the currently selected one is too long</string>
+    <string name="error_last_name_length">Wrong last name length</string>
+    <string name="error_last_name_length_min">Please enter a longer Last name - the currently selected one is too short</string>
+    <string name="error_last_name_length_max">Please enter a shorter Last name - the currently selected one is too long</string>
+    <string name="error_invalid_captcha">You entered wrong captcha</string>
+    <string name="error_captcha_length">Wrong captcha length (FIXME correct msg)</string>
+    <string name="error_tour_name_length">Invalid length of the name</string>
+    <string name="error_tour_desc_length">Invalid length of description</string>
+    <string name="error_tour_length">Invalid length </string>
+    <string name="error_tour_duration">Invalid duration</string>
+    <string name="error_tour_capacity">Invalid capacity</string>
+    <string name="error_tour_price">Invalid price</string>
+
+    <string name="message_password_recovery_email_sent">Password recovery email was successfully sent</string>
+    <string name="profile_personal_info_edit_activity_title">Profile Information</string>
+    <string name="profile_public_info_edit_activity_title">Public Information</string>
+    <string name="hint_languages_you_speak">Languages you are speaking</string>
+    <string name="hint_info_about">Few words about you</string>
+    <string name="request_add_hint">Your message</string>
+    <string name="actions_title">Actions</string>
+    <string name="user_type_guide">Guide</string>
+    <string name="user_type_tourist">Tourist</string>
+    <string name="user_type_guest">Guest</string>
+    <string name="buy_subscription_title">Buy a subscription</string>
+    <string name="buy_subscription_message">You can select only one camp for excursions. To select more countries buy a subscription.</string>
+    <string name="action_choose_slot_tour">Add information</string>
+    <string name="activity_tours_title">Excursions</string>
+    <string name="label_my_excursion">My Excursion</string>
+    <string name="action_upload_photo">Upload photo</string>
+    <string name="logout_dialog_title">Logout</string>
+    <string name="logout_dialog_message">Are you sure you want logout?</string>
+    <string name="push_notification">Notifications</string>
+    <string name="set_language">Set language</string>
+
+    <string name="geo_point">Geo point</string>
+
+    <string name="dashboard">Dashboard</string>
+
+    <!-- Mail -->
+    <string name="mail.issue.subject">Report an error</string>
+    <string name="mail.issue.body">id user: %1$s \ntype user: %2$s </string>
+    <string name="mail.support" translatable="false">support@pg.world</string>
+    <string name="mail.support.send">Send email</string>
+
+    <!-- Sharing -->
+    <string name="sharing_guide">Name guide: %1$s, \nAbout: %2$s </string>
+    <string name="sharing_tour">Excursion title: %1$s, \nAbout: %2$s</string>
+
+    <!-- Gallery -->
+    <string name="gallery.photo.count" translatable="false">%1$d/%2$d</string>
+
+    <!-- Place -->
+    <string name="places.manage.subscription">Manage subscription</string>
+    <string name="places.days.left">Days left</string>
+
+    <!-- Excursion -->
+    <string name="excursion.status.moderate">On moderation</string>
+    <string name="excursion.status.confirmed">Not active</string>
+    <plurals name="excursion_status">
+        <item quantity="one">Active (Expires: %d day)</item>
+        <item quantity="two">Active (Expires: %d days)</item>
+        <item quantity="other">Active (Expires: %d days)</item>
+    </plurals>
+
+    <!-- Toolbar-->
+    <string name="toolbar.lastseen">Last seen on %s</string>
+
+    <!-- Favourite -->
+
+    <!-- AlertMessages -->
+    <string name="alert.message.profile.moderation.need">Your profile no longer be visible and will have to be re-moderated.</string>
+    <string name="alert.message.places.moderation.need">Your excursion no longer be visible and will have to be re-moderated.</string>
+
+    <string name="error.unknown">Unknown err</string>
+    <string name="error.excursions.empty">No excursion yet.</string>
+    <string name="error.guides.empty">You have not added\n any guide to favourites yet.</string>
+    <string name="error.feedbacks.empty">No feedbacks yet.</string>
+    <string name="error.chats.empty">No chats yet.</string>
+    <string name="error.requests.empty">No requests yet.</string>
+    <string name="error.dashboard.empty">No dashboard yet.</string>
+
+    <!-- ToastMessages -->
+    <string name="toast.message.success.request.add">Your message was successfully sent</string>
+    <string name="toast.mass.message.success.request.add">Your mass application was successfully sent</string>
+
+    <string name="toast.message.password.reset.success">Please follow the instruction we sent to your email</string>
+    <string name="toast.message.success.excursion.add">The excursion was successfully added</string>
+
+    <string name="toast.profile.information.success.save">Your information saved</string>
+
+    <!-- Gcm notification-->
+    <string name="gcm.notification.title" translatable="false">@string/app_name</string>
+
+    <!-- Dashboard Fragment-->
+    <string name="fragment.dashboard.title" translatable="false">@string/dashboard</string>
+
+    <!-- Attach Fragment-->
+    <string name="fragment.attach.alert.ok" translatable="false">@string/label_done</string>
+    <string name="fragment.attach.alert.cancel" translatable="false">@string/label_cancel</string>
+    <string name="fragment.attach.alert.title.phone">Choose number</string>
+    <string name="fragment.attach.alert.title.skype">Choose skype</string>
+    <string name="fragment.attach.alert.title.email">Choose email</string>
+
+    <string name="fragment.attach.alert.item.phone" translatable="false">@string/label_phone</string>
+    <string name="fragment.attach.alert.item.skype" translatable="false">@string/label_skype</string>
+    <string name="fragment.attach.alert.item.email" translatable="false">@string/label_email</string>
+    <string name="fragment.attach.alert.item.location" translatable="false">@string/label_location</string>
+
+    <!-- Feedback -->
+    <string name="feedback_sent_moderation_message">Your message has been sent on moderation</string>
+    <string name="feedback.add.toolbar">Feedback for %s</string>
+
+    <!-- Alert mess-->
+    <string name="alert_del_title">Do you want to delete records?</string>
+    <string name="alert_send_message">Do you want to send message?</string>
+    <string name="alert_send_mass_application">Do you want to send mass application?</string>
+
+    <string name="requests">Requests</string>
+    <string name="request">Request</string>
+    <string name="chats">Chats</string>
+    
+    <string name="guides">Guides</string>
+    <string name="excursions">Excursions</string>
+
+    <!-- Chat tabs for tourist-->
+    <string-array name="chat_tabs_tourist">
+        <item>@string/chats</item>
+        <item>@string/requests</item>
+    </string-array>
+    
+    <string-array name="favorite_tabs">
+        <item>@string/guides</item>
+        <item>@string/excursions</item>
+    </string-array>
+
+    <!-- Languages-->
+    <string name="language.en">English</string>
+    <string name="language.ru">Russian</string>
+    <string name="language.fr">French</string>
+    <string name="language.de">Germany</string>
+    <string name="language.it">Italian</string>
+    <string name="language.es">Spain</string>
+    <string name="favorite.success.remove"></string>
+</resources>
